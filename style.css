@@ -1,0 +1,30 @@
+.main {
+    background-color: rgba(255, 241, 241, 0.49);
+    font-size: 20px;
+}
+#text {
+    padding: 10px;
+    color: #5f5c5c;
+}
+#submit {
+    background-color: #ffffff;
+    border-radius: 3px;
+    width: 150px;
+    height: 30px;
+    color: #5f5c5c;
+}
+#id {
+    border-radius: 4px;
+    text-align: center;
+    background-color: rgba(123, 120, 120, 0.62);
+    width: 500px;
+    margin-left: 400px;
+    padding: 20px;
+    color: #909090;
+    margin-top: 200px;
+}
+
+#submit:hover {
+    background-color: rgba(95, 92, 92, 0.32);
+    cursor: pointer;
+}
